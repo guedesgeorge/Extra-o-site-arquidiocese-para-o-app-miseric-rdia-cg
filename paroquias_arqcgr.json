@@ -1,0 +1,3036 @@
+[
+  {
+    "nome": "Capelania Hospitalar",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-pessoal-nossa-senhora-da-saude/",
+    "forania": "Centro",
+    "endereco": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa - Centro - Campo Grande",
+    "telefone": "(67) 3317-4863",
+    "email": "sebastiaosanto67@gmail.com",
+    "ano_criacao": "19 de março de 2018",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 e12h00 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": "7h30e 12h00 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 e 12h Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:15",
+        "observacoes": "Hospital Regional"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "Hospital Regional"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "12:00",
+        "observacoes": "Prócardio"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "13:30",
+        "observacoes": "Hospital  do Coração"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "09:00",
+        "observacoes": "Hospital de Câncer"
+      }
+    ]
+  },
+  {
+    "nome": "CATEDRAL NOSSA SENHORA DA ABADIA E SANTO ANTÔNIO DE PÁDUA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/catedral-nossa-senhora-da-abadia-e-santo-antonio-de-padua/",
+    "forania": "Centro",
+    "endereco": "Travessa Lídia Baís, 29 - Centro - CEP 79003-120 - Campo Grande/MS",
+    "telefone": "(67) 3321-9886",
+    "email": "catedral.santoantonio@hotmail.com",
+    "ano_criacao": "07 de abril de 1912",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "12:00",
+        "observacoes": "19h00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:00",
+        "observacoes": "19h00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "12:00",
+        "observacoes": "19h00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA  NOSSA SENHORA DA ABADIA (SANTUÁRIO)",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-da-abadia-santuario/",
+    "forania": "Leste",
+    "endereco": "Av. Afonso Pena, 7120 - Chácara Cachoeira -CEP 79040-010",
+    "telefone": "(67) 3306-0050",
+    "email": "cg.nsabadia@gmail.com",
+    "ano_criacao": "01 de abril de 2010",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "17h00, 19h00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "15:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PAROQUIA CORAÇÃO EUCARÍSTICO DE JESUS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-coracao-eucaristico-de-jesus/",
+    "forania": "Oeste",
+    "endereco": "Rua Yokohama, 1260 - Bairro Coophatrabalho - CEP 79112-260 - Campo Grande - MS",
+    "telefone": "(67) 3361-5220",
+    "email": "peucaristicodejesus2020@gmail.com",
+    "ano_criacao": "31 de agosto de 2007",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "15:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA CRISTO BOM PASTOR",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-cristo-bom-pastor/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Petrópolis, 1773 - Bairro Conjunto União - CEP 79091-723",
+    "telefone": "(67) 3317-6960",
+    "email": "cbpstor@arqcgr.org.br",
+    "ano_criacao": "01 de dezembro de 2000",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA CRISTO LUZ DOS POVOS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-cristo-luz-dos-povos/",
+    "forania": "Sudoeste",
+    "endereco": "Av. Bandeirantes, 2306 - Bairro Vila Bandeirantes - CEP 79006-003",
+    "telefone": "(67) 3222-8321",
+    "email": "cristoluzdospovos@gmail.com",
+    "ano_criacao": "26 de março de 1967",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA CRISTO REDENTOR",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-cristo-redentor/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Antonio Siufi, 139 - Bairro Guanandi - CEP 79086-400",
+    "telefone": "(67) 3317-6951",
+    "email": "cristoredentorcgr@outlook.com",
+    "ano_criacao": "23 de março de 1985",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:30",
+        "observacoes": "Após, novena N. Sra. Desatadora dos Nós"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA CRISTO REI",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-cristo-rei/",
+    "forania": "Sudoeste",
+    "endereco": "Rua dos Recifes, 435- Bairro Coophavilla II - Cep 79097-050",
+    "telefone": "",
+    "email": "p.cristorei86@gmail.com",
+    "ano_criacao": "23 de novembro de 1986",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sábado do Mês",
+        "horario": "06:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA DIVINO ESPÍRITO SANTO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-divino-espirito-santo/",
+    "forania": "Sul",
+    "endereco": "Rua Galeão, 34 - Bairro Aero Rancho - CEP 79083-352",
+    "telefone": "",
+    "email": "divinoespiritosanto.paroquia@gmail.com",
+    "ano_criacao": "01 de junho de 2001",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA DIVINO PARÁCLITO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-divino-paraclito/",
+    "forania": "Sul",
+    "endereco": "Av.  Guaicurus, 4640 - Bairro Colibri II - CEP 79071-071",
+    "telefone": "",
+    "email": "divinoparaclito@gmail.com",
+    "ano_criacao": "10 de fevereiro de 2007",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA IMACULADO CORAÇÃO DE MARIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-imaculado-coracao-de-maria/",
+    "forania": "Norte",
+    "endereco": "Avenida Hiroshima, 1233 - Bairro Caraná Bosque - CEP 79032-050 - Campo Grande - MS",
+    "telefone": "(67)  2525-8187",
+    "email": "picmmscg.adm@gmail.com",
+    "ano_criacao": "11 de outubro de 2020",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA MARIA AUXILIADORA DOS CRISTÃOS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-maria-auxiliadora-dos-cristaos/",
+    "forania": "Norte",
+    "endereco": "Rua Adriano Metello, 472 - Bairro Coronel Antonino - CEP 79013-030 - Campo Grande - MS",
+    "telefone": "(67) 3029-7414",
+    "email": "mariaauxiliadoracg2020@gmail.com",
+    "ano_criacao": "23 de maio de 2020",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": "Das 08 às 18h00 Adoração Eucarística, seguido da Santa Missa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 24 de cada mês",
+        "horario": "06:00",
+        "observacoes": "Missa votiva de N. Sra. Auxiliadora"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA MARIA MÃE DA IGREJA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-maria-mae-da-igreja/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Felipe Calarge, 723 - Bairro Vila Jussara - CEP 79092-080",
+    "telefone": "(67)3204-1969",
+    "email": "p.mariamaedaigreja@gmail.com",
+    "ano_criacao": "20 de março de 1994",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": "Adoração ao Santíssimo Sacramento"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA MARIA MEDIANEIRA DAS GRAÇAS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-maria-medianeira-das-gracas/",
+    "forania": "Oeste",
+    "endereco": "Av. José Pereira, 372 - Bairro Vila Popular - CEP 79106-532 - Campo Grande - MS",
+    "telefone": "(67) 3363-7902",
+    "email": "paroquiamariamedianeira@gmail.com",
+    "ano_criacao": "07 de março de 1999",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA APARECIDA DAS MORENINHAS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-aparecida-das-moreninhas/",
+    "forania": "Sul",
+    "endereco": "Rua Minas Novas, 550 - Vila Cidade Morena - CEP 79064-370",
+    "telefone": "(67) 3393-1428",
+    "email": "paroquiamorena@hotmail.com",
+    "ano_criacao": "01 de maio de 1988",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA AUXILIADORA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-auxiliadora/",
+    "forania": "Oeste",
+    "endereco": "Rua Manoel Ferreira, 171 - Bairro Santo Antônio - CEP 79100-330",
+    "telefone": "",
+    "email": "secretaria.pnsa-cg@missaosalesiana.org.br",
+    "ano_criacao": "30 de maio de 1971",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "06:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "17:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "05:40",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "05:40",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "05:40",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "05:40",
+        "observacoes": "Início às 05h40"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "05:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "11:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DA ABADIA – SIDROLÂNDIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-da-abadia-sidrolandia/",
+    "forania": "Rural",
+    "endereco": "Rua Sergipe, 240 - Bairro Centro - CEP 79170-000",
+    "telefone": "(67) 3272-1439",
+    "email": "pnsabadiasidrolandia@gmail.com",
+    "ano_criacao": "19 de dezembro de 1956",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "06:00",
+        "observacoes": "Sagrado Coração de Jesus"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DA CONCEIÇÃO APARECIDA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-da-conceicao-aparecida/",
+    "forania": "Oeste",
+    "endereco": "Av. Tamandaré, 612 - Bairro Vila Planalto - CEP 79009-790 - Campo Grande - MS",
+    "telefone": "(67) 3317-4968",
+    "email": "pnsca@terra.com.br",
+    "ano_criacao": "8 de dezembro de 1982",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": "19:00 - Novena"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DA CONCEIÇÃO APARECIDA – MUNICÍPIO DE BANDEIRANTES",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-da-conceicao-aparecida-municipio-de-bandeirantes/",
+    "forania": "Rural",
+    "endereco": "Rua Francisco Antonio de Souza, 1200 - Centro - CEP 79430-000 - Município de Bandeirantes / MS",
+    "telefone": "",
+    "email": "paroquiasantuario@gmail.com",
+    "ano_criacao": "12 de outubro de 1973",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DA GUIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-da-guia/",
+    "forania": "Sul",
+    "endereco": "Rua Cabrália Paulista, 269 - Bairro Centenário - CEP 79076-010",
+    "telefone": "",
+    "email": "paroquiansguia@hotmail.com",
+    "ano_criacao": "21 de março de 1993",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": "Novena"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Último  Sábado do Mês",
+        "horario": "19:30",
+        "observacoes": "Missa com  a Juventude"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DAS GRAÇAS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-das-gracas/",
+    "forania": "Norte",
+    "endereco": "Rua Henrique Barbosa Martins, 829 - Bairro Nova Lima - CEP 79017-070",
+    "telefone": "(67) 3317-8952",
+    "email": "pnsg_cg@hotmail.com",
+    "ano_criacao": "15 de agosto de 1992",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA DE FÁTIMA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-de-fatima/",
+    "forania": "Leste",
+    "endereco": "Rua Frei Gregório, 537 - Bairro Monte Líbano - CEP 79004-580",
+    "telefone": "(67) 3317-4972",
+    "email": "paroquiadefatimacgr@yahoo.com.br",
+    "ano_criacao": "01 de janeiro de 1964",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "16:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PAROQUIA NOSSA SENHORA DO PERPÉTUO SOCORRO (SANTUÁRIO ESTADUAL)",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-do-perpetuo-socorro-santuario-estadual/",
+    "forania": "Centro",
+    "endereco": "Avenida Afonso Pena, 377 - Centro - CEP 79005-001",
+    "telefone": "(67) 3384-2818",
+    "email": "santuariosecretaria@hotmail.com",
+    "ano_criacao": "02 de janeiro de 1939",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "16:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "20:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "21:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "15:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": "Das 06h00 às 23h00 - NOVENA"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA NOSSA SENHORA IMACULADA CONCEIÇÃO – MUNICÍPIO DE RIBAS DO RIO PARDO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-nossa-senhora-imaculada-conceicao-municipio-de-ribas-do-rio-pardo/",
+    "forania": "Rural",
+    "endereco": "Rua Senador Filinto Muller, 1837 - Centro - CEP 79180-000 - Município de Ribas do Rio Pardo",
+    "telefone": "(67) 3238-1707",
+    "email": "p.imaculada@htomail.com",
+    "ano_criacao": "15 de agosto de 1988",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Terça-feira do Mês",
+        "horario": "15:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Últma  Quinta-feira do Mês",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "05:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA PESSOAL NOSSA SENHORA DA SAÚDE (Capelania Hospitalar)",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-pessoal-nossa-senhora-da-saude-capelania-hospitalar/",
+    "forania": "Centro",
+    "endereco": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa - Centro - Campo Grande",
+    "telefone": "(67) 3317-4863",
+    "email": "sebastiaosanto67@gmail.com",
+    "ano_criacao": "19 de março de 2018",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": "Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 e12h00 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": "7h30e 12h00 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 e 12h Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": "7h30 Avenida Mato Grosso, esquina com a Rua Rui Barbosa"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:15",
+        "observacoes": "Hospital Regional"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "Hospital Regional"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "12:00",
+        "observacoes": "Prócardio"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "13:30",
+        "observacoes": "Hospital  do Coração"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "09:00",
+        "observacoes": "Hospital de Câncer"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SAGRADO CORAÇÃO DE JESUS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sagrado-coracao-de-jesus/",
+    "forania": "Norte",
+    "endereco": "Av. Mato Grosso, 3280 - Bairro Santa Fé - CEP 79021-151",
+    "telefone": "(67) 3317-4865",
+    "email": "pscjms@hotmail.com",
+    "ano_criacao": "22 de março de 1992",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "17:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SAGRADOS CORAÇÕES DE JESUS E MARIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sagrados-coracoes-de-jesus-e-maria/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Porto Rico, 704 - Bairro São Jorge da Lagoa - CEP 79095-010",
+    "telefone": "(67) 3056-1813",
+    "email": "pqscjm@hotmail.com",
+    "ano_criacao": "03 de dezembro de 2014",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTA CATARINA VIRGEM E MÁRTIR – DISTRITO DE ANHANDUÍ",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santa-catarina-virgem-e-martir-distrito-de-anhandui/",
+    "forania": "Rural",
+    "endereco": "Rua Rachid Neder, 3338 - Centro - CEP 79125-000 - Distrito de Anhandui - MS",
+    "telefone": "",
+    "email": "p.santacatarina@arqcgr.org.br",
+    "ano_criacao": "12 de maio de 1985",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "2º Domingo do Mês",
+        "horario": "10:00",
+        "observacoes": "Santa Luzia"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "3º Domingo do Mês",
+        "horario": "10:00",
+        "observacoes": "São Francisco"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": "São Sebastião"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Quarta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa nas casas"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "2º Quarta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa nas casas"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "3º Quarta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa nas casas"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "4º Quarta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa nas casas"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Quinta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa de Cura e Libertação"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "2º Quinta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa de Cura e Libertação"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "3º Quinta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa de Cura e Libertação"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "4º Quinta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa de Cura e Libertação"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Missa votiva ao Sagrado Coração de Jesus"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "3º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": "Fazenda Santa Terezinha"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTA CLARA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santa-clara/",
+    "forania": "Oeste",
+    "endereco": "Rua Sacramento, 816 - Vila Oracília - CEP 79118-021",
+    "telefone": "(67) 3325-1099",
+    "email": "secretariasantaclara48@gmail.com",
+    "ano_criacao": "",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTA LUZIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santa-luzia/",
+    "forania": "Oeste",
+    "endereco": "Rua Santa Madalena, 296 - Bairro Santa Luzia - CEP 79116-580 - Campo Grande - MS",
+    "telefone": "(67) 3023-6966",
+    "email": "igrejasantaluzia.cg@hotmail.com",
+    "ano_criacao": "13 de dezembro de 2018",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": "Novena de Santa Luzia seguida da Santa Missa"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTA RITA DE CÁSSIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santa-rita-de-cassia/",
+    "forania": "Sul",
+    "endereco": "Rua João Mailino, 306 - Bairro Universitário - CEP 79063-540",
+    "telefone": "(67) 3317-4979",
+    "email": "psritacg@yahoo.com.br",
+    "ano_criacao": "09 de abril de 1988",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "15:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 22 de cada mês",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTA RITA DE CÁSSIA – MUNICÍPIO DE JARAGUARI",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santa-rita-de-cassia-municipio-de-jaraguari/",
+    "forania": "Rural",
+    "endereco": "Rua Rio Branco, s/nº - Centro - CEP 79440-000 - Município de Jaraguari - MS",
+    "telefone": "",
+    "email": "santarita@arqcgr.org.br",
+    "ano_criacao": "16 de fevereiro de 1992",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 22 de cada mês",
+        "horario": "19:00",
+        "observacoes": "Missa em honra a Santa Rita"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTO AFONSO MARIA DE LIGÓRIO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santo-afonso-maria-de-ligorio-2/",
+    "forania": "Oeste",
+    "endereco": "Rua Eduardo Prado, 546 - Bairro Serradinho - CEP 79104-040",
+    "telefone": "(67)3391-7287",
+    "email": "paroquiasantoafonsocg@hotmail.com",
+    "ano_criacao": "12 de fevereiro de 2011",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTO AGOSTINHO DE HIPONA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santo-agostinho-de-hipona/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Franklin Espíndola, 629 - Bairro Santos Dumont - CEP 79090-080",
+    "telefone": "(67) 3331-6612",
+    "email": "paroquiasantoagostinho2021@gmail.com",
+    "ano_criacao": "31 de janeiro de 2021",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:15",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTO ANTONIO DE PÁDUA – SANTUÁRIO – MUNICÍPIO DE TERENOS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santo-antonio-de-padua-santuario-municipio-de-terenos/",
+    "forania": "Rural",
+    "endereco": "Rua Dr. Ary Coelho de Oliveira, 211 - Centro - CEP 79190-000",
+    "telefone": "(67) 3246-7264",
+    "email": "santo.antonio734@gmail.com",
+    "ano_criacao": "19 de dezembro de 1956",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SANTO EXPEDITO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/quase-paroquia-santo-expedito/",
+    "forania": "Sul",
+    "endereco": "Rua Deocleciano Dias Bagagem, 878 - Bairro Jardim Itamaracá - CEP 79062-350",
+    "telefone": "",
+    "email": "sminder@arqcgr.org.br",
+    "ano_criacao": "12 de agosto de 2021",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 19 de cada mês",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO FRANCISCO DE ASSIS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-francisco-de-assis/",
+    "forania": "Centro",
+    "endereco": "Rua 14 de Julho, 4267 - Bairro São Francisco - CEP 79010-170",
+    "telefone": "",
+    "email": "saofranciscodeassiscg@gmail.com",
+    "ano_criacao": "28 de novembro de 1950",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "17:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": "19:00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": "19:00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": "19:00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": "19:00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": "19:00"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO FRANCISCO DE SALES",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-santo-afonso-maria-de-ligorio/",
+    "forania": "Oeste",
+    "endereco": "Rua Pinto D´Agua, 837 - Bairro Recando dos Pássaros - CEP 7979104-040",
+    "telefone": "(67) 3201-4000",
+    "email": "prfranciscodesales@gmail.com",
+    "ano_criacao": "18 de março de 2011",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "18:00",
+        "observacoes": "Adoração ao Santíssimo Sacramento"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:30",
+        "observacoes": "Santa Missa após a adoração ao Santíssimo Sacramento"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOÃO BATISTA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-joao-batista/",
+    "forania": "Oeste",
+    "endereco": "Rua Francisco Sabino, 58 - Bairro Coophasul - CEP 79116-120 - Campo Grande - MS",
+    "telefone": "(67)3317-7965",
+    "email": "paroquiasjbms@hotmail.com",
+    "ano_criacao": "06/01/2006",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOÃO BOSCO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-joao-bosco/",
+    "forania": "Norte",
+    "endereco": "Rua Paraíba, 1787 - Vila Gomes - CEP 79022-310",
+    "telefone": "(67) 3204-3206",
+    "email": "campogrande.psjb3@gmail.com",
+    "ano_criacao": "05 de julho de 1939",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "17:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOÃO CALÁBRIA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-joao-calabria/",
+    "forania": "Sul",
+    "endereco": "Rua Olivério Rodrigues da Luz, 247 - Bairro Jardim das Macaúbas - CEP 79037-050",
+    "telefone": "(67) 3397-6042",
+    "email": "paroquiams@uol.com.br",
+    "ano_criacao": "28 de agosto de 1994",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Terça-feira do Mês",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 08 de cada mês",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOÃO EVANGELISTA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-joao-evangelista/",
+    "forania": "Sudoeste",
+    "endereco": "Rua Thor, 278 - Bairro Portal Caiobá I - CEP 79096-100",
+    "telefone": "(67) 3386-6293",
+    "email": "p.saojoaoevangelista15@gmail.com",
+    "ano_criacao": "28 de junho de 2015",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOSÉ",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-jose/",
+    "forania": "Centro",
+    "endereco": "Rua Pedro Celestino, 1446 - Centro - Campo Grande - CEP 79002-371",
+    "telefone": "",
+    "email": "paroquiadesaojose_ms@hotmail.com",
+    "ano_criacao": "19/03/1949",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "09:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "16:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:15",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JOSÉ DE ANCHIETA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-jose-de-anchieta/",
+    "forania": "Leste",
+    "endereco": "Rua Nove de Julho, 517 - Bairro Vila Piratininga - Campo Grande - CEP 79081-050",
+    "telefone": "",
+    "email": "sminder@arqcgr.org.br",
+    "ano_criacao": "31 de maio de 2024",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "05:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO JUDAS TADEU (SANTUÁRIO)",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-judas-tadeu-santuario/",
+    "forania": "Leste",
+    "endereco": "Rua Fernando Augusto Corrêa da Costa, 58 - Jardim América - CEP 79080-790",
+    "telefone": "(67) 3305-5955",
+    "email": "psaojudastadeu2013@gmail.com",
+    "ano_criacao": "10 de abril de 1988",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Dia 28 de cada mês",
+        "horario": "19:30",
+        "observacoes": "(exceto aos sábados e domingos)"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:30",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO LEOPOLDO MANDIC",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-leopoldo-mandic/",
+    "forania": "Leste",
+    "endereco": "Rua João Francisco Damasceno, 304 - Bairro Maria Aparecida Pedrossian - CEP 79044-451",
+    "telefone": "(67) 3317-5957",
+    "email": "pslm01@outlook.com",
+    "ano_criacao": "03 de dezembro de 1999",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "12:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "07:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO MARTINHO DE LIMA",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-martinho-de-lima/",
+    "forania": "Sul",
+    "endereco": "Rua Barão de Limeira, 1683 - Bairro Jardim das Mansões - CEP 79070-150",
+    "telefone": "(67) 3043-6124",
+    "email": "paroquia.sml@gmail.com",
+    "ano_criacao": "27 de março de 2011",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "16:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO MATEUS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-mateus/",
+    "forania": "",
+    "endereco": "",
+    "telefone": "",
+    "email": "sminder@arqcgr.org.br",
+    "ano_criacao": "",
+    "celebracoes": []
+  },
+  {
+    "nome": "PARÓQUIA SÃO PEDRO APÓSTOLO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-pedro-apostolo/",
+    "forania": "Norte",
+    "endereco": "Av. Presidente Castelo Branco, 781 - Bairro Coronel Antonino - CEP 79011-490 - Campo Grande - MS",
+    "telefone": "(67) 3317-4862",
+    "email": "paroquiasaopedrocg@gmail.com",
+    "ano_criacao": "30 de novembro de 2001",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": "Novena das Santas Chagas"
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SÃO SEBASTIÃO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-sebastiao/",
+    "forania": "Norte",
+    "endereco": "Rua Minas Gerais, 549 - Bairro Monte Castelo - CEP 79022-280",
+    "telefone": "(67) 3317-4863",
+    "email": "sebastiaosanto67@gmail.com",
+    "ano_criacao": "01 de junho de 2007",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SENHOR BOM JESUS",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-senhor-bom-jesus/",
+    "forania": "Leste",
+    "endereco": "Rua Candida Lima de Barros, 293 - Bairro Tiradentes - CEP 79041-390",
+    "telefone": "(67) 3341-0988",
+    "email": "senhorbomjesuscgr@gmail.com",
+    "ano_criacao": "16 de abril de 2017",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "07:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "06:00",
+        "observacoes": "Missa votiva do Sagrado Coração de Jesus"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sexta-feira",
+        "horario": "06:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "06:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SENHOR BOM JESUS – MUNICÍPIO DE CORGUINHO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-senhor-bom-jesus-municipio-de-corguinho/",
+    "forania": "Rural",
+    "endereco": "Av. Paulo Vieira Barbosa, 294 - Centro - CEP 79460-000 - Corguinho - MS",
+    "telefone": "",
+    "email": "arqcgrcorguinho@gmail.com",
+    "ano_criacao": "19 de dezembro de 1956",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "1º Domingo do Mês",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "2º Domingo do Mês",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "3º Domingo do Mês",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "4º Domingo do Mês",
+        "horario": "07:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "18:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SENHOR BOM JESUS – MUNICÍPIO DE ROCHEDO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-sao-sebastiao-martir-rochedo/",
+    "forania": "Rural",
+    "endereco": "Rua Duque de Caxias, 101 - Centro - CEP 79450-000",
+    "telefone": "(67) 3289-1110",
+    "email": "p.saosebastiaomartir@hotmail.com",
+    "ano_criacao": "19/12/1956",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA SENHOR DO BONFIM",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-senhor-do-bonfim/",
+    "forania": "Norte",
+    "endereco": "Rua Capiatã, 40 - Bairro Nova Bahia - CEP 79034-331 - Campo Grande - MS",
+    "telefone": "(67) 3354-5569",
+    "email": "sbonfim@arqcgr.org.br",
+    "ano_criacao": "08 de setembro de 1991",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "08:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "10:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Segunda-feira",
+        "horario": "19:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Terça-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "19:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "1º Sexta-feira do Mês",
+        "horario": "15:00",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Sábado",
+        "horario": "19:00",
+        "observacoes": ""
+      }
+    ]
+  },
+  {
+    "nome": "PARÓQUIA UNIVERSITÁRIA SÃO JOÃO BOSCO",
+    "url": "https://arquidiocesedecampogrande.org.br/paroquias/paroquia-universitaria-sao-joao-bosco/",
+    "forania": "Centro",
+    "endereco": "Av. Tamandaré, 6000 - Jardim Seminário - CEP 79117-715 - Campo Grande/MS",
+    "telefone": "",
+    "email": "paroquiauniversitaria@ucdb.org.br",
+    "ano_criacao": "24/05/2017",
+    "celebracoes": [
+      {
+        "tipo": "Missa",
+        "dia": "Domingo",
+        "horario": "18:30",
+        "observacoes": ""
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quarta-feira",
+        "horario": "20:30",
+        "observacoes": "Início às 20h40 - Capela Bloco A"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Quinta-feira",
+        "horario": "08:30",
+        "observacoes": "Início às 08h50 - Igreja"
+      },
+      {
+        "tipo": "Missa",
+        "dia": "Últma  Quinta-feira do Mês",
+        "horario": "10:00",
+        "observacoes": "Termino: 17h00"
+      }
+    ]
+  }
+]
